@@ -1,2 +1,2 @@
-hello ALX
+Hello ALX
 My README is updated
